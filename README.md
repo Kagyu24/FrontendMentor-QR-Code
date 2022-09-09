@@ -20,8 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [](https://github.com/Kagyu24/FrontendMentor-QR-Code)
+- Live Site URL: [](https://frontendmentorio-qr-code.netlify.app/)
 
 ## My process
 
@@ -38,5 +38,3 @@ Pretty much just copied the design pictures as closely as possible.
 - Website - [Justin Lemos](https://www.justinlemos.com)
 - Frontend Mentor - [@Kagyu24](https://www.frontendmentor.io/profile/Kagyu24)
 - Twitter - [@Kagyu24](https://twitter.com/Kagyu24)
-# FrontendMentor-QR-Code
-# FrontendMentor-QR-Code
